@@ -51,6 +51,8 @@ pointil=False       # Sépare les triages par des trais (True/False)
 numero=False        # Affiche numéro des rouges sur la figure
 compte=True         # Affiche nombre de traingles & losanges rouges
 tourne=True         # Tourne image comme dans exercice
+                    # Mettre à False si Scipy non présent
+    
 NomFichier='Vasarely-VIII-Sin-Hat-A' # Nom du fichier à sauver
 # ------------------Fin choix des options ----------------------------------
 
