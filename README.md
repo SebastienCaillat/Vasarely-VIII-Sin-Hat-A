@@ -1,8 +1,6 @@
 # Vasarely-VIII-Sin-Hat-A
 
-Programme en Python 3 permettant de dessiner une œuvre de Victor Vasarely
-Titre : VIII Sin-Hat-A
-Année : 1974
+Programme en Python 3 permettant de dessiner l'œuvre de Victor Vasarely VIII Sin-Hat-A (1974)
 
 Accessoirement permet de compter le nombre de triangles rouges, comme l'exercice 86, page 73, Nathan Trans Math 6ème | Programme 2016
 
