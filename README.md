@@ -1,4 +1,4 @@
-# Vasarely VIII-Sin-Hat-A
+# Vasarely VIII Sin-Hat-A
 
 Programme en Python 3 permettant de dessiner l'œuvre de [Victor Vasarely](https://fr.wikipedia.org/wiki/Victor_Vasarely) VIII Sin-Hat-A (1974).
 
