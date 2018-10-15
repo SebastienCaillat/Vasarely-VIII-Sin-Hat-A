@@ -11,4 +11,9 @@ Programme en Python 3 permettant de dessiner l'œuvre de [Victor Vasarely](https
 La figure est tracée dans un premier temps tournée de 90° avec des triangles vers le haut et vers le bas puis tournée comme sur l'original. 
 Accessoirement le programme permet de compter le nombre de triangles rouges, comme demandé dans l'exercice 86, page 73, Nathan Trans Math 6<sup>ème</sup> (Programme 2016).
 <img src="./Vasarely-VIiI-Sin-Hat-A-avec-numeros-non-tournee.jpeg" alt="Victor Vasarely VIII Sin-Hat-A (1974)"/>
- 	
+ 
+ ## Mode d'emploi
+Télécharger [Vasarely-VIII-Sin-Hat-A.py](./Vasarely-VIII-Sin-Hat-A.py) et le faire tourner dans une console Python 3.x
+
+## Améliorations
+- Les couleurs ne sont pas fidèles à la lithographe d'origine.
